@@ -1,0 +1,17 @@
+/Users/gokcedilek/Desktop/resess/mar2021/codegen-maven-plugin-petstore-demo/target/generated-sources/swagger/src/gen/java/main/com/example/codegen_maven_plugin_petstore_demo/petstore/model/Category.java
+/Users/gokcedilek/Desktop/resess/mar2021/codegen-maven-plugin-petstore-demo/target/generated-sources/swagger/src/gen/java/main/com/example/codegen_maven_plugin_petstore_demo/petstore/invoker/RFC3339DateFormat.java
+/Users/gokcedilek/Desktop/resess/mar2021/codegen-maven-plugin-petstore-demo/target/generated-sources/swagger/src/gen/java/main/com/example/codegen_maven_plugin_petstore_demo/petstore/model/User.java
+/Users/gokcedilek/Desktop/resess/mar2021/codegen-maven-plugin-petstore-demo/target/generated-sources/swagger/src/gen/java/main/com/example/codegen_maven_plugin_petstore_demo/petstore/model/Pet.java
+/Users/gokcedilek/Desktop/resess/mar2021/codegen-maven-plugin-petstore-demo/target/generated-sources/swagger/src/gen/java/main/com/example/codegen_maven_plugin_petstore_demo/petstore/api/StoreApi.java
+/Users/gokcedilek/Desktop/resess/mar2021/codegen-maven-plugin-petstore-demo/target/generated-sources/swagger/src/gen/java/main/com/example/codegen_maven_plugin_petstore_demo/petstore/model/Tag.java
+/Users/gokcedilek/Desktop/resess/mar2021/codegen-maven-plugin-petstore-demo/target/generated-sources/swagger/src/gen/java/main/com/example/codegen_maven_plugin_petstore_demo/petstore/api/PetApi.java
+/Users/gokcedilek/Desktop/resess/mar2021/codegen-maven-plugin-petstore-demo/target/generated-sources/swagger/src/gen/java/main/com/example/codegen_maven_plugin_petstore_demo/petstore/invoker/auth/Authentication.java
+/Users/gokcedilek/Desktop/resess/mar2021/codegen-maven-plugin-petstore-demo/target/generated-sources/swagger/src/gen/java/main/com/example/codegen_maven_plugin_petstore_demo/petstore/invoker/auth/OAuth.java
+/Users/gokcedilek/Desktop/resess/mar2021/codegen-maven-plugin-petstore-demo/src/main/java/com/example/codegenmavenpluginpetstoredemo/CodegenMavenPluginPetstoreDemoApplication.java
+/Users/gokcedilek/Desktop/resess/mar2021/codegen-maven-plugin-petstore-demo/target/generated-sources/swagger/src/gen/java/main/com/example/codegen_maven_plugin_petstore_demo/petstore/invoker/auth/OAuthFlow.java
+/Users/gokcedilek/Desktop/resess/mar2021/codegen-maven-plugin-petstore-demo/target/generated-sources/swagger/src/gen/java/main/com/example/codegen_maven_plugin_petstore_demo/petstore/invoker/auth/ApiKeyAuth.java
+/Users/gokcedilek/Desktop/resess/mar2021/codegen-maven-plugin-petstore-demo/target/generated-sources/swagger/src/gen/java/main/com/example/codegen_maven_plugin_petstore_demo/petstore/invoker/auth/HttpBasicAuth.java
+/Users/gokcedilek/Desktop/resess/mar2021/codegen-maven-plugin-petstore-demo/target/generated-sources/swagger/src/gen/java/main/com/example/codegen_maven_plugin_petstore_demo/petstore/model/Order.java
+/Users/gokcedilek/Desktop/resess/mar2021/codegen-maven-plugin-petstore-demo/target/generated-sources/swagger/src/gen/java/main/com/example/codegen_maven_plugin_petstore_demo/petstore/model/ModelApiResponse.java
+/Users/gokcedilek/Desktop/resess/mar2021/codegen-maven-plugin-petstore-demo/target/generated-sources/swagger/src/gen/java/main/com/example/codegen_maven_plugin_petstore_demo/petstore/invoker/ApiClient.java
+/Users/gokcedilek/Desktop/resess/mar2021/codegen-maven-plugin-petstore-demo/target/generated-sources/swagger/src/gen/java/main/com/example/codegen_maven_plugin_petstore_demo/petstore/api/UserApi.java
